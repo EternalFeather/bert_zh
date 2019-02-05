@@ -1,6 +1,6 @@
 bert_zh
 ===
-Chinese tasks finetuning with google bert
+Chinese nlp tasks finetuning with google bert
 
 # Text Classification Task
 
